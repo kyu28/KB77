@@ -1,21 +1,21 @@
 # KB77
-An 77-key keyboard layout and Unifying-compatible things about it.
+An 77-key layout Unifying-compatible keyboard design.
 
-This program aims at making a Unifying-compatible 77-key layout keyboard and share all the files about it.
+This program aims at making a Unifying-compatible 77-key layout keyboard.
+The design has been tested and a real keyboard was maked.
 
 Specifies:
-* Compatible with standard key caps
-* Hot swappable
-* A special layout with no Win keys
-* Compatible with Logitech Unifying
++ Compatible with standard key caps
++ Hot swappable
++ A special layout with no Win keys
++ Compatible with Logitech Unifying
 
 ******
 Including:
-* Keyboard Layout
-* Schematic
-* PCB (Designed for K375s)
++ Keyboard Layout
++ Schematic
++ PCB (Designed for Logitech K375s)
 
-These files are tested and they're able to be used to make a keyboard.
 ******
 Usage:
 1. Buy at least 77 switches, 77 Kailh Traditional Switch PCB hot swapping sockets, 77 standard key caps, a Logitech Unifying host board (Can be found in Logitech K375s and some other Logitech Unifying Keyboards), a 27-key FPC connector, a 27-key FPC cable with pins on the same side and 3 0603LEDs.
